@@ -10,4 +10,8 @@ public class EmployeeAnand {
         System.out.println("Employee Anand");
     }
 
+    public void m1(){
+        System.out.println("M1 method");
+    }
+
 }
