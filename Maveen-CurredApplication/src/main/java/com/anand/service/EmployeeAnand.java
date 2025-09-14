@@ -12,6 +12,8 @@ public class EmployeeAnand {
         System.out.println("good Evening");
         System.out.println("I hat Pizza!");
         System.out.println("I love Biking and tracking!");
+        System.out.println("I love Biking and Hiking!");
+
     }
 
 }
