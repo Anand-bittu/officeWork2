@@ -7,7 +7,7 @@ public class EmployeeAnand {
     String address="Hyd";
 
     public EmployeeAnand(){
-        System.out.println("Employee Pravesh");
+        System.out.println("Hello");
         System.out.println("Written by Pravesh089");
         System.out.println("good Evening");
         System.out.println("I hat Pizza!");
